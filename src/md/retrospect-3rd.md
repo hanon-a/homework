@@ -1,7 +1,7 @@
 # 세 번째 회고
 
 ###프론트엔드 개발자로의 도전 3주차!
-[엉엉우는나][https://i.pinimg.com/736x/67/f0/49/67f0491895dcae66001b69ca561ecee0.jpg]
+![엉엉우는_나][https://i.pinimg.com/736x/67/f0/49/67f0491895dcae66001b69ca561ecee0.jpg]
 
 대체 왜 익숙해지지 못할까?
 잘하고싶은 마음은 앞서고 시간은 쏜살같이 나아가는데 나는 계속 서투른 그대로인것같디.
@@ -16,6 +16,13 @@
 답답한 마음에 눈물이 왈칵 나와버려서 그대로 엉엉 울어버렸다.
 한참 눈물 흘리고 나니 소용돌이 치던 마음이 조금 가라앉았다.
 
-[자자진정해\_작은나야][https://t1.daumcdn.net/cafeattach/1IHuH/7f5f0a41a7be2f62b49ca435fe9fbf9f0141ef0c]
+![자자_진정해_작은나야][https://t1.daumcdn.net/cafeattach/1IHuH/7f5f0a41a7be2f62b49ca435fe9fbf9f0141ef0c]
 
-[다울었니?이제할일을하자][https://mblogthumb-phinf.pstatic.net/MjAyMTA4MDFfMjI2/MDAxNjI3ODI5MDA3MTYy.PWggNrdrSWN0qXiDSF42AGJyZebylWfZysEWx8VP510g.aBK-TzmRmMYss3eVNsShel271kS0O2CVaJ8YY5B_wtEg.JPEG.chamji33/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg?type=w800]
+복잡한 마음을 내려놓고 침착해지니 이제 눈앞에 누가 보이냐면...
+
+![다울었니?_이제할일을하자][https://mblogthumb-phinf.pstatic.net/MjAyMTA4MDFfMjI2/MDAxNjI3ODI5MDA3MTYy.PWggNrdrSWN0qXiDSF42AGJyZebylWfZysEWx8VP510g.aBK-TzmRmMYss3eVNsShel271kS0O2CVaJ8YY5B_wtEg.JPEG.chamji33/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg?type=w800]
+
+그렇다. 오은영 선생님께서도 **다 울고 나면 할일에 집중하라**고 하셨다. 더이상 눈물 흘릴 일이 없도록 강하게 나를 단련해가자.
+오늘 오전 예배가 끝나면 오후에는 오로지 과제에 매진해야겠다. 이미 지나간 과제도 내 손으로 직접 완성하고싶다. 늦더라도 시행착오를 넘어가며 완성하는것이 나의 성장을 위한 유일한 길일것이다.
+
+![지속이_성장이야][https://resources.chimhaha.net/article/1678176639560-xw2brsohdos.jpg]
