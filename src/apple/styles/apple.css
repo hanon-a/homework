@@ -1,0 +1,20 @@
+@import './card-component.css';
+
+/* 카드 레이아웃 */
+.container {
+  position: relative;
+  display: grid;
+  place-items: center; /* 수평, 수직 정중앙 */
+  min-height: 500px;
+  overflow: hidden;
+  background: url('/src/apple/products/ipad_pro.jpeg') no-repeat center/cover;
+  background-size: auto 500px;
+
+  .card1 {
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+  }
+}
