@@ -10,7 +10,7 @@
 나는 아직 여전히 CSS라는 녀석이 새로운데 벌써 다음으로 넘어가야 한다니!<br>
 정말 시간은 나를 기다려주지 않는가보다.
 
-![집중만이 성장이다](/homework/src/assets/profiles/img/weaf12awf23e.jpg)
+![집중만이 성장이다](https://pann.nate.com/attach/imageView?source_url=https%3A%2F%2Ffimg5.pann.com%2Fnew%2Fdownload.jsp%3FFileID%3D67448565&cate_cd=20038.jpg)
 
 2~3주정도 수업을 들으면서 내 성장한 모습을 보면 아주 미약하지만 그 미약한 발전이 굉장히 뿌듯하다.<br>
 이전에 'F12 개발자 키'를 누르고 깜짝 놀라던 시절과 달리, 이제는 페이지의 마크업 구조가 어떻게 되어있는지를 볼 수 있게 되었다.<br>
